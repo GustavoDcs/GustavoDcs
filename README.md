@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Web developer with a keen eye for innovative design and a vast understanding of techniques aimed at a great user experience.<br>📚 I'm currently learning data science.<br>🎯 Goals: being able to live abroad.<br>🎲 Fun fact: Love to learn new technologies and new games.</p><br>❗ PS: Feel free to talk to me about any technology, I'm not restricted with a language or a library/framework.</p>
+<p align="left">✨ Web developer with a keen eye for innovative design and a vast understanding of techniques aimed at a great user experience.<br>📚 I'm currently learning data science.<br>🎯 Goals: being able to live abroad.<br>🎲 Fun fact: Love to learn new technologies and new games.<br>❗ PS: Feel free to talk to me about any technology, I'm not restricted with a language or a library/framework.</p>
 
 ###
 
