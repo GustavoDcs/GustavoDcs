@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gustavo, you can call me DCS, and I'm a web developer from Brazil.<br><br>I'm currently working at HS - Tecnologia</p>
+<p align="left">My name is Gustavo, you can call me DCS, and I'm a web developer from Brazil.<br><br>I'm currently working at BEES</p>
 
 ###
 
