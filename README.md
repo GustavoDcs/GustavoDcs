@@ -1,6 +1,6 @@
 <h1 align="left">Gustavo do Carmo Silva</h1>
 
-<p align="left"><strong>Senior Software Engineer</strong> · Backend, integrations & applied AI<br>
+<p align="left"><strong>Software Engineer</strong><br>
 Building production systems for global teams, from Brazil, for anywhere.</p>
 
 <p align="left">
