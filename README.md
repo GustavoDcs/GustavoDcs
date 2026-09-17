@@ -6,7 +6,7 @@ Building production systems for global teams, from Brazil, for anywhere.</p>
 <p align="left">
   <a href="mailto:contact@gustavodcs.com"><img src="https://img.shields.io/badge/Available%20for%20work-Contract%20or%20full--time-2ea44f?style=for-the-badge" alt="Available for work" /></a>
   <a href="mailto:contact@gustavodcs.com"><img src="https://img.shields.io/badge/Email-contact%40gustavodcs.com-0b5cad?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <a href="[https://linkedin.com/in/gustavodcs](https://www.linkedin.com/in/gustavo-silva-2a0464159/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-silva-2a0464159/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ###
