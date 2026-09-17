@@ -1,7 +1,7 @@
 <h1 align="left">Gustavo do Carmo Silva</h1>
 
 <p align="left"><strong>Senior Software Engineer</strong> · Backend, integrations & applied AI<br>
-Building production systems for global teams — from Brazil, for anywhere.</p>
+Building production systems for global teams, from Brazil, for anywhere.</p>
 
 <p align="left">
   <a href="mailto:contact@gustavodcs.com"><img src="https://img.shields.io/badge/Available%20for%20work-Contract%20or%20full--time-2ea44f?style=for-the-badge" alt="Available for work" /></a>
@@ -15,7 +15,7 @@ Building production systems for global teams — from Brazil, for anywhere.</p>
 
 ###
 
-<p align="left">I have 5+ years shipping and operating software that businesses depend on — three of them at <strong>AB InBev (BEES)</strong>, a global B2B commerce platform, where I worked across CMS and micro-frontend architecture, API integration, automated testing, on-call and production incident response. Promoted twice in three years and recognized for merit in 2024 and 2025.</p>
+<p align="left">I have 5+ years shipping and operating software that businesses depend on, three of them at <strong>AB InBev (BEES)</strong>, a global B2B commerce platform, where I worked across CMS and micro-frontend architecture, API integration, automated testing, on-call and production incident response. Promoted twice in three years and recognized for merit in 2024 and 2025.</p>
 
 <p align="left">Today I split my time between <strong>Lean Owl Software</strong>, open-source work on the <strong>Qaul</strong> decentralized P2P platform, and my own consulting practice.</p>
 
@@ -119,6 +119,6 @@ Building production systems for global teams — from Brazil, for anywhere.</p>
 
 <p align="left">Have a system that needs building, integrating, or rescuing? I take on contract and full-time work, remote worldwide.<br><br>
 📬 <strong><a href="mailto:contact@gustavodcs.com">contact@gustavodcs.com</a></strong> · <a href="https://linkedin.com/in/gustavodcs">LinkedIn</a><br>
-💬 Happy to talk about any technology — I'm not tied to a single language or framework.</p>
+💬 Happy to talk about any technology, I'm not tied to a single language or framework.</p>
 
 ###
